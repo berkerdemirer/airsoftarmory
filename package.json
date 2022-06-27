@@ -35,7 +35,6 @@
 		"firebase-admin": "^11.0.0",
 		"jsdom": "^20.0.0",
 		"postcss": "^8.4.14",
-		"postcss-cli": "^9.1.0",
 		"prettier": "^2.7.1",
 		"prettier-plugin-svelte": "^2.7.0",
 		"prettier-plugin-tailwindcss": "^0.1.11",
