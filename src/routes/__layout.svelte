@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../styles/tailwind-output.css';
+	import '../app.css';
 	import Header from '$lib/components/Header/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 </script>
